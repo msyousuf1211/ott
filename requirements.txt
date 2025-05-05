@@ -1,3 +1,4 @@
+python-3.11.5
 streamlit==1.30.0
 pandas==1.5.3
 pandas-flavor==0.6.0
